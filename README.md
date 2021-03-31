@@ -3,7 +3,7 @@
 I recently participated in a contest organised by the [HowToSFMC](https://www.howtosfmc.com/) community, where contestants had to display the lyrics of the song '[One More Time](https://genius.com/Daft-punk-one-more-time-lyrics)' using Server-Side JavaScript (SSJS) in Salesforce Marketing Cloud, in an efficient manner.
 
 ## Approach
-My initial observation was that while the chorus and bridge in the lyrics are short and repetitive, they follow an irregular pattern. 
+My initial observation was that while the chorus and bridge in the lyrics are short and repetitive, but they follow an irregular pattern. 
 
 To present the lyrics in a manner that they could be reconstructed, I firstly identified distinct lines in the lyrics and stored them in an array—arrays are a great fit for this task, as they provide a very convenient method of storing multiple values in a single variable.
 

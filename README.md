@@ -183,7 +183,7 @@ Write(output(order));
 ```
 
 ## Learnings
-While this script doesn’t have any practical context (I doubt that I'll ever need to output song lyrics!), it was very helpful in creating a solution to parse datasets containing similar characteristics, then process them in an optimal way. I look forward to applying this pattern to future projects! 
+While this script doesn’t have any practical context (I doubt that I'll ever need to output song lyrics!), it was very helpful in creating a solution to parse datasets that contain similar characteristics, then process them in an optimal way. I look forward to applying this pattern to future projects! 
 
 ## Script
 The complete SSJS code is [provided here](https://github.com/eliotharper/lyricparser/blob/master/main.js).
